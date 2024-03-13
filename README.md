@@ -1,0 +1,1 @@
+This python code was made with the intention of, in addition to improving my python skills and familiarizing myself with webscraping, creating a database for a future research project involving match analysis and outcome prediction of the League of Legends game.
